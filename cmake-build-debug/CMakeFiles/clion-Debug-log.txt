@@ -1,0 +1,20 @@
+"C:\Program Files\JetBrains\CLion 2023.3.4\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=C:/Program Files/JetBrains/CLion 2023.3.4/bin/ninja/win/x64/ninja.exe" -G Ninja -S D:\GitHubFiles\Project2DGame\2DGAME -B D:\GitHubFiles\Project2DGame\2DGAME\cmake-build-debug
+-- Looking for sys/types.h
+-- Looking for sys/types.h - found
+-- Looking for stdint.h
+-- Looking for stdint.h - found
+-- Looking for stddef.h
+-- Looking for stddef.h - found
+-- Check size of void*
+-- Check size of void* - done
+-- Found OpenGL: opengl32   
+-- Looking for dinput.h
+-- Looking for dinput.h - found
+-- Found OpenAL: D:/GitHubFiles/Project2DGame/2DGAME/cmake-build-debug/_deps/sfml-src/extlibs/libs-mingw/x64/libopenal32.a  
+-- Found VORBIS: D:/GitHubFiles/Project2DGame/2DGAME/cmake-build-debug/_deps/sfml-src/extlibs/libs-mingw/x64/libvorbisenc.a;D:/GitHubFiles/Project2DGame/2DGAME/cmake-build-debug/_deps/sfml-src/extlibs/libs-mingw/x64/libvorbisfile.a;D:/GitHubFiles/Project2DGame/2DGAME/cmake-build-debug/_deps/sfml-src/extlibs/libs-mingw/x64/libvorbis.a;D:/GitHubFiles/Project2DGame/2DGAME/cmake-build-debug/_deps/sfml-src/extlibs/libs-mingw/x64/libogg.a  
+-- Found FLAC: D:/GitHubFiles/Project2DGame/2DGAME/cmake-build-debug/_deps/sfml-src/extlibs/libs-mingw/x64/libFLAC.a  
+-- Version: 10.2.1
+-- Build type: Debug
+-- Configuring done (14.8s)
+-- Generating done (0.0s)
+-- Build files have been written to: D:/GitHubFiles/Project2DGame/2DGAME/cmake-build-debug

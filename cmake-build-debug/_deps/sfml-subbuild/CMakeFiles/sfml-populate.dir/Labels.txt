@@ -1,0 +1,14 @@
+# Target labels
+ sfml-populate
+# Source files and their labels
+D:/GitHubFiles/Project2DGame/2DGAME/cmake-build-debug/_deps/sfml-subbuild/CMakeFiles/sfml-populate
+D:/GitHubFiles/Project2DGame/2DGAME/cmake-build-debug/_deps/sfml-subbuild/CMakeFiles/sfml-populate.rule
+D:/GitHubFiles/Project2DGame/2DGAME/cmake-build-debug/_deps/sfml-subbuild/CMakeFiles/sfml-populate-complete.rule
+D:/GitHubFiles/Project2DGame/2DGAME/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-build.rule
+D:/GitHubFiles/Project2DGame/2DGAME/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-configure.rule
+D:/GitHubFiles/Project2DGame/2DGAME/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-download.rule
+D:/GitHubFiles/Project2DGame/2DGAME/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-install.rule
+D:/GitHubFiles/Project2DGame/2DGAME/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-mkdir.rule
+D:/GitHubFiles/Project2DGame/2DGAME/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-patch.rule
+D:/GitHubFiles/Project2DGame/2DGAME/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-test.rule
+D:/GitHubFiles/Project2DGame/2DGAME/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-update.rule

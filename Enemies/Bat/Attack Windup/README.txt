@@ -1,0 +1,1 @@
+In order to use these frames as your attack windup, delete the first 3 frames of the "attack" animation and replace with these.

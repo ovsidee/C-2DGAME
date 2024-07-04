@@ -1,0 +1,21 @@
+# ninja log v5
+0	33	7418128604646168	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-mkdir	35e403d9b1518ae8
+0	33	7418128604646168	D:/GitHubFiles/Project2DGame/2DGAME/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-mkdir	35e403d9b1518ae8
+33	2586	7418128630181807	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-download	b10c4da2eac99a08
+33	2586	7418128630181807	D:/GitHubFiles/Project2DGame/2DGAME/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-download	b10c4da2eac99a08
+2586	2670	0	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-update	c5637517994aeb78
+2586	2670	0	D:/GitHubFiles/Project2DGame/2DGAME/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-update	c5637517994aeb78
+2670	2698	7418128631304816	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-patch	48f6b0e03e37394f
+2670	2698	7418128631304816	D:/GitHubFiles/Project2DGame/2DGAME/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-patch	48f6b0e03e37394f
+2698	2725	7418128631574876	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-configure	7faaa3607731b824
+2698	2725	7418128631574876	D:/GitHubFiles/Project2DGame/2DGAME/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-configure	7faaa3607731b824
+2726	2759	7418128631914957	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-build	3bc00fdbabcfe623
+2726	2759	7418128631914957	D:/GitHubFiles/Project2DGame/2DGAME/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-build	3bc00fdbabcfe623
+2759	2787	7418128632195015	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-install	901be1af1c7cea40
+2759	2787	7418128632195015	D:/GitHubFiles/Project2DGame/2DGAME/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-install	901be1af1c7cea40
+2787	2814	7418128632465075	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-test	e56c8e8af60f9a0b
+2787	2814	7418128632465075	D:/GitHubFiles/Project2DGame/2DGAME/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-test	e56c8e8af60f9a0b
+2814	2857	7418128632885172	CMakeFiles/fmt-populate-complete	b3f34cbb48b51aa8
+2814	2857	7418128632885172	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-done	b3f34cbb48b51aa8
+2814	2857	7418128632885172	D:/GitHubFiles/Project2DGame/2DGAME/cmake-build-debug/_deps/fmt-subbuild/CMakeFiles/fmt-populate-complete	b3f34cbb48b51aa8
+2814	2857	7418128632885172	D:/GitHubFiles/Project2DGame/2DGAME/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-done	b3f34cbb48b51aa8

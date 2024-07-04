@@ -1,0 +1,21 @@
+# ninja log v5
+0	30	7418128488396373	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-mkdir	b98577dd92b4c5b1
+0	30	7418128488396373	D:/GitHubFiles/Project2DGame/2DGAME/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-mkdir	b98577dd92b4c5b1
+30	8379	7418128571889226	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-download	14bf395a725035f1
+30	8379	7418128571889226	D:/GitHubFiles/Project2DGame/2DGAME/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-download	14bf395a725035f1
+8379	8463	0	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-update	20bc209a72ff9a94
+8379	8463	0	D:/GitHubFiles/Project2DGame/2DGAME/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-update	20bc209a72ff9a94
+8464	8493	7418128573030439	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-patch	6dcdc1dfe76c5559
+8464	8493	7418128573030439	D:/GitHubFiles/Project2DGame/2DGAME/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-patch	6dcdc1dfe76c5559
+8493	8520	7418128573300500	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-configure	2db57be77d3ef350
+8493	8520	7418128573300500	D:/GitHubFiles/Project2DGame/2DGAME/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-configure	2db57be77d3ef350
+8521	8548	7418128573570560	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-build	2839dcfc8faa4f44
+8521	8548	7418128573570560	D:/GitHubFiles/Project2DGame/2DGAME/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-build	2839dcfc8faa4f44
+8548	8575	7418128573850623	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-install	dbee3264f7896802
+8548	8575	7418128573850623	D:/GitHubFiles/Project2DGame/2DGAME/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-install	dbee3264f7896802
+8575	8603	7418128574130685	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-test	d9fec3d93740390d
+8575	8603	7418128574130685	D:/GitHubFiles/Project2DGame/2DGAME/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-test	d9fec3d93740390d
+8604	8641	7418128574510770	CMakeFiles/sfml-populate-complete	aafc9cf6f9233536
+8604	8641	7418128574510770	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-done	aafc9cf6f9233536
+8604	8641	7418128574510770	D:/GitHubFiles/Project2DGame/2DGAME/cmake-build-debug/_deps/sfml-subbuild/CMakeFiles/sfml-populate-complete	aafc9cf6f9233536
+8604	8641	7418128574510770	D:/GitHubFiles/Project2DGame/2DGAME/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-done	aafc9cf6f9233536
