@@ -20,6 +20,7 @@ This project uses the [SFML](https://www.sfml-dev.org/) library for graphics & w
 
 ## 📂 Repository structure
 
+```text
 C-2DGAME/
 ├── BackgroundImages/
 ├── Buttons/
@@ -45,6 +46,7 @@ C-2DGAME/
 ├── Items/
 ├── Obstacles/
 └── README.md
+```
 
 ---
 
