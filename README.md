@@ -102,11 +102,15 @@ Make sure asset folders (BackgroundImages, Buttons, Textures, etc.) are accessib
 
 🎮 Controls & Gameplay
 
-[Arrow keys / WASD] — Move the player
+[WASD] — Move the player
+
+[Space + WASD] — Roll the player in any direction you want
 
 [Mouse1] — Attack
 
 [M] — Skip the level when allowed
+
+[Escape] — Close the game
 
 Navigate through rooms, collect items, avoid or defeat enemies.
 
