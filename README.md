@@ -25,6 +25,9 @@ This project uses the [SFML](https://www.sfml-dev.org/) library for graphics & w
 *Main menu, start of the game*
 <img width="1281" height="744" alt="image" src="https://github.com/user-attachments/assets/a9c5c934-8200-40bd-9420-6430a7fb7160" />
 
+*Hitting the button instructions of the game menu*
+<img width="1281" height="743" alt="image" src="https://github.com/user-attachments/assets/6b41c9b1-f9f4-4a53-854b-e7d682f64a37" />
+
 *Hitting the button *New Game**
 <img width="1276" height="742" alt="image" src="https://github.com/user-attachments/assets/cc62be5a-5540-4f5d-8818-0c922fe3c365" />
 
