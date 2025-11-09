@@ -54,7 +54,7 @@ This project uses the [SFML](https://www.sfml-dev.org/) library for graphics & w
 <img width="1271" height="739" alt="image" src="https://github.com/user-attachments/assets/d634b49b-1202-4f73-960d-cea48dc279c0" />
 *2*
 <img width="1269" height="738" alt="image" src="https://github.com/user-attachments/assets/d54f6b31-1804-4f94-a4f3-a9e999ba1688" />
-
+*and there is so much other variations.. try it yourself :)*
 ---
 
 ## 📂 Repository structure
