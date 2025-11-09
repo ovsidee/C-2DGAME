@@ -21,31 +21,20 @@ This project uses the [SFML](https://www.sfml-dev.org/) library for graphics & w
 ## 📂 Repository structure
 
 ```text
-C-2DGAME/
-├── BackgroundImages/
-├── Buttons/
-├── Character/
-├── Enemies/
-├── Font/
-├── LevelNumber/
-├── Textures/
-├── CMakeLists.txt
-├── main.cpp
-├── Game.h
-├── Game.cpp
-├── Player.h
-├── Player.cpp
-├── Enemy.h
-├── Enemy.cpp
-├── Boss.h
-├── Boss.cpp
-├── Magician.h
-├── Magician.cpp
-├── NightBorn.h
-├── NightBorn.cpp
-├── Items/
-├── Obstacles/
-└── README.md
+├── BackgroundImages/ – background assets
+├── Buttons/ – UI button assets
+├── Character/ – player character sprites
+├── Enemies/ – enemy character sprites
+├── Font/ – font assets
+├── LevelNumber/ – level numbering assets
+├── Textures/ – other textures
+├── CMakeLists.txt – CMake build configuration
+├── main.cpp – entry point
+├── Game.h / Game.cpp – main game loop & state handling
+├── Player.h / Player.cpp – player logic
+├── Enemy.h / Enemy.cpp – generic enemy logic
+├── … – other entity types: Boss, Magician, NightBorn, Items, Obstacles, etc
+└── README.md – this file
 ```
 
 ---
