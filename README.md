@@ -63,7 +63,9 @@ Make sure asset folders (BackgroundImages, Buttons, Textures, etc.) are accessib
 🎮 Controls & Gameplay
 
 [Arrow keys / WASD] — Move the player
+
 [Mouse1] — Attack
+
 [M] — Skip the level when allowed
 
 Navigate through rooms, collect items, avoid or defeat enemies.
